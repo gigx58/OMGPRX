@@ -13,8 +13,8 @@ import re
 from urllib.parse import quote_plus  # Add this import
 
 # Constants
-LINKMFP = "https://tuonome.hf.space"
-PASSWORD = "tuapassword"
+LINKMFP = "https://gigx58-mazztvmediaprox.hf.space"
+PASSWORD = "58"
 
 PROXY = f"{LINKMFP}/proxy/hls/manifest.m3u8?api_password={PASSWORD}&d="
 
